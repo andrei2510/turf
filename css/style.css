@@ -13,7 +13,7 @@
 .fixed {
     position: fixed;
     width: 100%;
-    z-index: 100;
+    z-index: 1;
 
 }
 
@@ -170,6 +170,7 @@
 }
 
 .catalog__item {
+
     padding: 100px 0;
     background-color: rgb(238, 247, 244);
     text-align: center;
